@@ -1,0 +1,10 @@
+#myName {
+    color: rgb(28, 92, 137);
+    text-align: center;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
