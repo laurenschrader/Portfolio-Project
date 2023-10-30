@@ -6,10 +6,10 @@
 
 ## Technologies Used
 
-* HTML
-* CSS
-* //XX
-* //XX
+* **HTML** - For designing the structure of each page.
+* **CSS** - For styling the content of the pages.
+* **Git/GitHub** - For tracking all changes made to the project.
+* **VSCode** - The code editor used for writing all code of the project.
 
 ## Description
 
