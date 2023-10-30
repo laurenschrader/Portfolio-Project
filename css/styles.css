@@ -49,6 +49,11 @@
     text-align: center;
 }
 
+.subSection {
+    font-weight: bold;
+    font-style: italic;
+}
+
 .center-container {
     display: flex;
     justify-content: center;
