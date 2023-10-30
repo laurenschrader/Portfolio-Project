@@ -19,7 +19,8 @@
 
 .navBar {
     width: 25%;
-    padding: 2.5px;
+    padding: 5px;
+    padding-left: 20px;
     background-color: rgb(232, 240, 249);
     float: right;
     position: absolute;
