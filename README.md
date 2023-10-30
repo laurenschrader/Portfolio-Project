@@ -15,7 +15,7 @@
 
 _This application is meant to give a brief overview of myself- an introduction, overview of my work and education background, and my portfolio of work._
 
-_On the landing page, users can read my introduction and background. From the landing page, users can navigate to "My Projects" page, by using the navigation bar. From there, users will see 3 of my projects outlined- including a brief description of each project, the languages and technologies used for project. From there, users are able to navigate to each project's GitHub, using the given hyperlinks within each project section._
+_On the landing page, users will see my name and image, as well as a 'welcome' message. From the landing page, users can navigate the 'Menu' to view either the 'About Me' or 'My Projects' page. The 'About Me' section will give an overview of myself, my background, my education, and work experience. The 'My Projects' page will give an overview of 3 of my projects- including a brief description, the languages and technologies used, as well as the GitHub link for each project._
 
 ## Setup/Installation Requirements
 
