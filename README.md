@@ -4,6 +4,8 @@
 
 #### _A basic HTML interface, introducing myself and showcasing my portfolio of work._
 
+#### _View My Live Project [Here](https://laurenschrader.github.io/Portfolio-Project/)._
+
 ## Technologies Used
 
 * **HTML** - For designing the structure of each page.
