@@ -20,10 +20,7 @@
 .box1 {
     width: 50%;
     padding: 5px;
-    border: solid rgb(224, 223, 223);
-    border-width: 0.5px;
     background-color: rgb(232, 240, 249);
-    margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
