@@ -2,7 +2,7 @@
 
 #### By _**Lauren Schrader**_
 
-#### _A basic HTML interface, showcasing my portfolio of work._
+#### _A basic HTML interface, introducing myself and showcasing my portfolio of work._
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_This application is meant to give a brief overview of myself- including an introduction, overview of my work and education background, and my portfolio of work._
+_This application is meant to give a brief overview of myself- an introduction, overview of my work and education background, and my portfolio of work._
 
 _On the landing page, users can read my introduction and background. From the landing page, users can navigate to "My Projects" page, by using the navigation bar. From there, users will see 3 of my projects outlined- including a brief description of each project, the languages and technologies used for project. From there, users are able to navigate to each project's GitHub, using the given hyperlinks within each project section._
 
@@ -34,6 +34,6 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_For any issues, questions, or concerns about this application, contact the author: laurenschrader123@gmail.com_
+[MIT](./License.txt)
 
-Copyright (c) _2023_ _Lauren Schrader_
+_For any issues, questions, or concerns about this application, contact the author: laurenschrader123@gmail.com_
