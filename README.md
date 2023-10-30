@@ -19,7 +19,7 @@ _On the landing page, users will see my name and image, as well as a 'welcome' m
 
 ## Setup/Installation Requirements
 
-_To view this webpage application, simply click [here](https://laurenschrader.github.io/Portfolio-Project/) to open in your browser_. 
+_To view this webpage application in your browser, simply click [here](https://laurenschrader.github.io/Portfolio-Project/)_. 
 
 ## Known Bugs
 
