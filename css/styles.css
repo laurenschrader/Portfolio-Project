@@ -17,6 +17,17 @@
 
 }
 
+.navBar {
+    width: 25%;
+    padding: 2.5px;
+    background-color: rgb(232, 240, 249);
+    float: right;
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    box-sizing: border-box;
+  }
+
 .box1 {
     width: 50%;
     padding: 5px;
