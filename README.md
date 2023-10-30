@@ -25,8 +25,7 @@ _To view this webpage application, simply click [here](https://laurenschrader.gi
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+_No known bugs or issues. If you find any, please report them._
 
 ## License
 
